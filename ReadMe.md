@@ -1,15 +1,19 @@
-# Noto Sans CJKjp for Firestorm
+# Noto Sans CJK for Firestorm
 
-これは、SecondLife 向けサードパーティー製ビューアーの [Firestorm Viewer](https://www.firestormviewer.org/) の Noto フォントを日本語などの漢字が含まれる [Noto Sans CJK](https://github.com/notofonts/noto-cjk) および、[源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)に差し替えるパッチです。
+これは、SecondLife 向けサードパーティー製ビューアーの [Firestorm Viewer](https://www.firestormviewer.org/) の Noto フォントを日本語などの漢字が含まれる [Noto Sans CJK](https://github.com/notofonts/noto-cjk) および、[源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)に差し替ええて、[Alchemy Viewer](https://alchemyviewer.org/) 相当のフォントにするフォント定義ファイルです。
 
 ## インストール
 
 このリポジトリの以下のファイルを、Firestorm の`fonts`ディレクトリ（Windows の場合`C:\Program Files\Firestorm-Releasex64\fonts`）に入れてください。
 
 - fonts_noto_sans_cjk.xml
-- NotoSansCJKjp-Bold.otf
-- NotoSansCJKjp-Regular.otf
-- NotoSansMonoCJKjp-Regular.otf
+- NotoSans-Regular.ttf
+- NotoSansCJK-Bold.otf
+- NotoSansCJK-Regular.otf
+- NotoSansMath-Regular.otf
+- NotoSansSymbols-Bold.ttf
+- NotoSansSymbols-Regular.ttf
+- NotoSansSymbols2-Regular.ttf
 - SourceHanSans-Regular.otf
 
 次に Firestorm を起動し、UI のフォント設定から`Noto sans cjk`を選ぶだけです。
