@@ -12,6 +12,8 @@ The current settings use the OS font, which causes the typeface and size to chan
 
 ## Install
 
+[Download this repository](https://github.com/logue/firestorm-noto-sans-cjk/archive/refs/heads/master.zip).
+
 Add the following files from this repository to your Firestorm `fonts` directory (`C:\Program Files\Firestorm-Releasex64\fonts` on Windows):
 
 - fonts_noto_sans_full.xml
@@ -40,11 +42,9 @@ Add the following files from this repository to your Firestorm `fonts` directory
 - NotoSansThai-Bold.otf
 - NotoSansThai-Regular.otf
 
-![環境設定](img/font-config.webp)
+Next, start Firestorm and select `Noto sans full` from the UI font settings and set Font Adjustment to -1.0.
 
-Next, start Firestorm and select `Noto sans full` from the UI font settings.
-
-Set Font Adjustment to -1.0.
+![Preference](img/font-config.webp)
 
 ## Lisence
 
