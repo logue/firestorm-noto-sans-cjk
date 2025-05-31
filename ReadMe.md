@@ -1,6 +1,6 @@
-# Noto Sans Full for Firestorm
+# Noto Sans Full for Firestorm and Aperture Viewer
 
-This is a definition file that changes the Noto font of [Firestorm Viewer](https://www.firestormviewer.org/), a third-party viewer for SecondLife, from [Noto Sans CJK](https://github.com/notofonts/noto-cjk) etc., which contains kanji characters such as Japanese, to the font settings equivalent to [Alchemy Viewer](https://alchemyviewer.org/).
+This is a definition file that changes the Noto font of [Firestorm Viewer](https://www.firestormviewer.org/) and [Aperture Viewer](https://github.com/ApertureViewer/Aperture-Viewer), a third-party viewer for SecondLife, from [Noto Sans CJK](https://github.com/notofonts/noto-cjk) etc., which contains kanji characters such as Japanese, to the font settings equivalent to [Alchemy Viewer](https://alchemyviewer.org/).
 
 Before:
 ![Before](img/before.webp)
@@ -17,30 +17,32 @@ The current settings use the OS font, which causes the typeface and size to chan
 Add the following files from this repository to your Firestorm `fonts` directory (`C:\Program Files\Firestorm-Releasex64\fonts` on Windows):
 
 - fonts_noto_sans_full.xml
-- NotoSans-Bold.otf
-- NotoSans-BoldItalic.otf
-- NotoSans-Italic.otf
-- NotoSans-Regular.otf
+- NotoNaskhArabicUI-Bold.ttf
+- NotoNaskhArabicUI-Regular.ttf
+- NotoSans-Bold.ttf
+- NotoSans-BoldItalic.ttf
+- NotoSans-Italic.ttf
+- NotoSans-Regular.ttf
 - NotoSansCJK-Bold.ttc
 - NotoSansCJK-Regular.ttc
-- NotoSansDevanagariUI-Bold.otf
-- NotoSansDevanagariUI-Regular.otf
-- NotoSansEgyptianHieroglyphs-Regular.otf
-- NotoSansKannadaUI-Bold.otf
-- NotoSansKannadaUI-Regular.otf
-- NotoSansMath-Regular.otf
+- NotoSansDevanagariUI-Bold.ttf
+- NotoSansDevanagariUI-Regular.ttf
+- NotoSansEgyptianHieroglyphs-Regular.ttf
+- NotoSans-Italic.ttf
+- NotoSansKannadaUI-Bold.ttf
+- NotoSansKannadaUI-Regular.ttf
 - NotoSansMath-Regular.ttf
-- NotoSansMono-Bold.otf
-- NotoSansMono-Regular.otf
-- NotoSansOriya-Bold.otf
-- NotoSansOriya-Regular.otf
-- NotoSansSymbols-Bold.otf
-- NotoSansSymbols-Regular.otf
-- NotoSansSymbols2-Regular.otf
-- NotoSansTamilUI-Bold.otf
-- NotoSansTamilUI-Regular.otf
-- NotoSansThai-Bold.otf
-- NotoSansThai-Regular.otf
+- NotoSansMono-Regular.ttf
+- NotoSansOriya-Bold.ttf
+- NotoSansOriya-Regular.ttf
+- NotoSans-Regular.ttf
+- NotoSansSymbols-Bold.ttf
+- NotoSansSymbols-Regular.ttf
+- NotoSansSymbols2-Regular.ttf
+- NotoSansTamilUI-Bold.ttf
+- NotoSansTamilUI-Regular.ttf
+- NotoSansThai-Bold.ttf
+- NotoSansThai-Regular.ttf
 
 Next, start Firestorm and select `Noto sans full` from the UI font settings and set Font Adjustment to -1.0.
 
