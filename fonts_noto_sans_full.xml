@@ -48,6 +48,14 @@
 	</font>
 	<font name="SansSerifBold" comment="Name of bold sans-serif font">
 		<file>NotoSans-Bold.ttf</file>
+		<file load_collection="true">NotoSansCJK-Bold.ttc</file>
+		<file>NotoSansTamilUI-Bold.ttf</file>
+		<file>NotoSansOriya-Bold.ttf</file>
+		<file>NotoSansKannadaUI-Bold.ttf</file>
+		<file>NotoSansDevanagariUI-Bold.ttf</file>
+		<file>NotoNaskhArabicUI-Bold.ttf</file>
+		<file>NotoSansThai-Bold.ttf</file>
+		<file>NotoSansSymbols-Bold.ttf</file>
 		<os name="Windows">
 			<file>arialbd.ttf</file>
 		</os>
@@ -56,7 +64,17 @@
 		</os>
 	</font>
 	<font name="SansSerif" comment="Name of san-serif font (Truetype file name)">
-		<file>NotoSansCombined-Regular.ttf</file>
+		<file>NotoSans-Regular.ttf</file>
+		<file load_collection="true">NotoSansCJK-Regular.ttc</file>
+		<file>NotoSansOriya-Regular.ttf</file>
+		<file>NotoSansKannadaUI-Regular.ttf</file>
+		<file>NotoSansDevanagariUI-Regular.ttf</file>
+		<file>NotoNaskhArabicUI-Regular.ttf</file>
+		<file>NotoSansThai-Regular.ttf</file>
+		<file>NotoSansEgyptianHieroglyphs-Regular.ttf</file>
+		<file>NotoSansSymbols-Regular.ttf</file>
+		<file>NotoSansSymbols2-Regular.ttf</file>
+		<file>NotoSansMath-Regular.ttf</file>
 		<os name="Windows">
 			<file>arial.ttf</file>
 		</os>
@@ -99,7 +117,7 @@
 		<file>NotoSansMono-Regular.ttf</file>
 	</font>
 	<font name="Scripting" comment="Name of an optional font used for the script editor">
-		<file>SourceCodePro-Regular.ttf</file>
+		<file>NotoSansMono-Regular.ttf</file>
 	</font>
 	<font name="OCRA" comment="OCRA machine character recognition used in script editor compile errors">
 		<file>ocra.ttf</file>
@@ -159,12 +177,12 @@
 		<file>times.ttf</file>
 		<file>NotoSansCombined-Regular.ttf</file>
 	</font>
-	<font_size name="Scripting" comment="Size of script editor font (points, or 1/72 of an inch)" size="10.0" />
+	<font_size name="Scripting" comment="Size of script editor font (points, or 1/72 of an inch)" size="8.6" />
 	<font_size name="Monospace" comment="Size for monospaced font (points, or 1/72 of an inch)" size="8.0" />
 	<font_size name="Cascadia" comment="Size for monospaced font (points, or 1/72 of an inch)" size="8.6" />
 	<font_size name="Huge" comment="Size of huge font (points, or 1/72 of an inch)" size="16.0" />
-	<font_size name="Large" comment="Size of large font (points, or 1/72 of an inch)" size="11.0" />
-	<font_size name="Medium" comment="Size of medium font (points, or 1/72 of an inch)" size="10.0" />
-	<font_size name="Small" comment="Size of small font (points, or 1/72 of an inch)" size="9.0" />
-	<font_size name="Pie" comment="Size of pie menu font (points, or 1/72 of an inch)" size="7.5" />
+	<font_size name="Large" comment="Size of large font (points, or 1/72 of an inch)" size="10.6" />
+	<font_size name="Medium" comment="Size of medium font (points, or 1/72 of an inch)" size="8.6" />
+	<font_size name="Small" comment="Size of small font (points, or 1/72 of an inch)" size="7.6" />
+	<font_size name="Pie" comment="Size of pie menu font (points, or 1/72 of an inch)" size="7.3" />
 </fonts>

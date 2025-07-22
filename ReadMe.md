@@ -48,7 +48,11 @@ Next, start Firestorm and select `Noto sans full` from the UI font settings and 
 
 ![Preference](img/font-config.webp)
 
-## Lisence
+## See Also
+
+- [Firestorm IBM Plex](https://github.com/logue/firestorm-ibm-plex) - Instead of Noto Sans, it uses IBM Plex fonts. Supports Chinese, Japanese, Korean, Thai, Arabic, Hebrew, etc.
+
+## License
 
 &copy; 2023,2025 by Logue, Licensed under the GNU LESSER GENERAL PUBLIC LICENSE.
 
