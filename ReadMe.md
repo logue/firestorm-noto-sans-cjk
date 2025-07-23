@@ -14,7 +14,12 @@ The current settings use the OS font, which causes the typeface and size to chan
 
 [Download this repository](https://github.com/logue/firestorm-noto-sans-cjk/archive/refs/heads/master.zip).
 
-Add the following files from this repository to your Firestorm `fonts` directory (`C:\Program Files\Firestorm-Releasex64\fonts` on Windows):
+Add the following files from this repository to your Firestorm `fonts` directory.
+
+| OS      | Path                                                              |
+| ------- | ----------------------------------------------------------------- |
+| Windows | `C:\Program Files\Firestorm-Releasex64\fonts`                     |
+| MacOS   | `/Applications/Firestorm-Releasex64.app/Contents/Resources/fonts` |
 
 - fonts_noto_sans_full.xml
 - NotoNaskhArabicUI-Bold.ttf
